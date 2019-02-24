@@ -1,0 +1,6 @@
+{
+  "name": "ThermOS",
+  "tagline": "Raspberry Pi Thermostat",
+  "body": "### What is ThermOS?\r\nThermOS transforms your Raspberry Pi into a web enabled thermostat. You can fine-tune your thermostat settings to get the most out of your system. Currently, ThermOS is divided into two parts; the thermostat-daemon, which handles your ac system, and thermostat-web, which gives you a beautifully simplistic web interface to interact with.\r\n\r\n### What can ThermOS do?\r\nAccess the control panel through any web enabled device that is connected to the same network. \r\n* Set your system to Heat, Cool, or Auto.\r\n* With Auto mode enabled, you can create a custom runtime schedule\r\n* Temporarily override scheduled settings  with the temperature hold timer\r\n* View thermostat logs right in the control panel\r\n* Access real-time hyper-localized weather data provided by the [Dark Sky API](https://forecast.io/)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
